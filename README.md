@@ -1,0 +1,2 @@
+# ArabWIC
+Managing of ArabWIC
